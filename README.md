@@ -45,14 +45,6 @@ as a developer in a real-world team.
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maikolmombelli-dotcom&show_icons=true&hide_border=true" alt="Maikol's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikolmombelli-dotcom&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ### 📫 Get in touch
 
