@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Maikol 👋
 
-<!--
-**maikolmombelli-dotcom/maikolmombelli-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Development student at **ITS Academy ICT Piemonte** (Turin, Italy),
+currently completing my first year. Backend-focused, building my foundations
+one project at a time.
 
-Here are some ideas to get you started:
+### What I'm working with
+- **Languages:** C#, SQL, Python, Java, JavaScript
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, .NET
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm up to
+- 📚 Learning backend development through hands-on projects at ITS
+- 🌱 Currently deepening C# / .NET and relational databases
+- 🎯 Looking for a higher-apprenticeship opportunity to grow as a developer
+
+### Get in touch
+- 📫 maikmombelli@gmail.com
+- 💼 [LinkedIn](your-linkedin-url-here)
